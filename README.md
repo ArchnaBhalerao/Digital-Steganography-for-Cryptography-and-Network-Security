@@ -9,9 +9,6 @@
 
   <p align="center">
     A Steganography Tool
-    <br />
-    <a href="https://github.com/ArchnaBhalerao/Digital-Staganography-for-Cryptography-and-Network-Security-/new/master?filename=README.md"><strong>Explore the docs »</strong></a>
-    <br />
   </p>
 </p>
 
