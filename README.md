@@ -119,7 +119,7 @@ You can use the sample files for testing in `test_files` folder.
 
 ## Contributors
 
-- **Aditya Kotkar** - [Archna Bhalerao](https://github.com/ArchnaBhalerao/Digital-Staganography-for-Cryptography-and-Network-Security-)
+- **Archna Bhalerao** - [Archna Bhalerao](https://github.com/ArchnaBhalerao/Digital-Staganography-for-Cryptography-and-Network-Security-)
 - **Pratiksha Kamthe**
   
 ## License
