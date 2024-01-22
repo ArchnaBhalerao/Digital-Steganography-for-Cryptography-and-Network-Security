@@ -4,7 +4,6 @@
 <p align="center">
   
   <img src="https://img.icons8.com/color/80/000000/data-encryption.png"/>
-  
   <h1 align="center">Steganography</h1>
 
   <p align="center">
